@@ -1,0 +1,27 @@
+p{
+  color:red;
+  border-block-end-width:2px;
+  background-color:;
+  line-height:1.5em;
+}
+img{
+  width:150px;
+}
+a{
+  line-height:5em;
+}
+#name{
+  line-height:1.5em;
+  margin-block-end:10px;
+}
+#email{
+  line-height: 1.5em;
+  margin-block-end:10px;
+}
+#submit{
+  line-height:2em;
+}
+.headings{
+  font-family:'Oleo Script Swash Caps', cursive;
+  font-weight:normal;
+}
