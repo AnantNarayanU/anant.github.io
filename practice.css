@@ -4,12 +4,13 @@ p{
   background-color:;
   line-height:1.5em;
 }
-#image1{
-  width:40%;
+.image{
+  width:49%;
   padding-top: 15px;
-  height: 170px;
+  height: 240px;
   
 }
+
 a{
   line-height:5em;
 }
@@ -22,7 +23,7 @@ a{
   margin-block-end:10px;
 }
 #submit{
-  margin-left:135px;
+  margin-left:125px;
   margin-top: 15px;
 }
 .headings{
@@ -42,7 +43,6 @@ a{
   border-radius: 8px;
   padding-left: 10px;
   
-  
 }
 
 .intro{
@@ -61,7 +61,42 @@ a{
   margin:10px;
   border-radius: 10px;
 }
-#image2{
-  height: 170px;
-  width: 58%
+body{
+  border: 2px solid black;
+  background-color: rgb(200,255,255);
+  padding: 10px 10px 10px 10px;
+  border-radius: 50px
+}
+.button{
+  background-color: rgb(255, 227, 199);
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bolder;
+  border: 2px solid;
+  border-radius: 50px;
+}
+
+.navigation{
+  text-decoration: none;
+  color:red;
+  font-weight: bold;
+  border-right: 2px solid black;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+
+
+
+
+.friendlist{
+  border: 2px solid rgb(200, 7, 235);
+  background-color: rgb(223, 255, 212);
+  padding: 19px;
+  border-width:3px;
+  border-radius: 50px;
+  float: left;
+}
+.friendname{
+  padding-left: 125px;
 }
