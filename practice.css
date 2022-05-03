@@ -7,7 +7,7 @@ p{
 .image{
   width:49%;
   padding-top: 15px;
-  height: 240px;
+  height: 400px;
   
 }
 
@@ -56,8 +56,7 @@ a{
 .contact{
   background-color: rgb(196,196,196);
   border: 2px solid grey;
-  padding-left: 10px;
-  padding-bottom: 10px;
+  padding: center center;
   margin:10px;
   border-radius: 10px;
 }
